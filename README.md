@@ -1,0 +1,1 @@
+# Analise-de-Padroes-em-Dota-2-por-Faixa-de-Habilidade-MMR
