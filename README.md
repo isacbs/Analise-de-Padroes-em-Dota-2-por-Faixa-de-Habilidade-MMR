@@ -9,7 +9,7 @@ Projeto da disciplina **Inteligência Artificial – 7ºJ SI (Noite)**, Faculdad
 * Jennifer Aparecida de Sousa Tondade — 10420574@mackenzista.com.br
 * Lucas Lacerda Gomes — 10322644@mackenzista.com.br
  
-**Vídeo de apresentação (YouTube):** [inserir link do vídeo]
+**Vídeo de apresentação (YouTube):** https://youtu.be/eNO2_zhGtbQ
  
 ## Objetivo do projeto
  
