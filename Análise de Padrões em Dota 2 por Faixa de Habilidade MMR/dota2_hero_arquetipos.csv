@@ -1,0 +1,93 @@
+Name,Primary Attribute,WinRate_Mean,WinRate_Std,WinRate_Delta,PickRate_Mean,Role_Carry,Role_Disabler,Role_Durable,Role_Escape,Role_Initiator,Role_Nuker,Role_Pusher,Role_Support,Pick_Slope,Cluster,Arquétipo
+Anti-Mage,Agilidade,49.6114,0.4212,0.47,1.3461,1,0,0,1,0,1,0,0,-0.6470917507559908,2,Consistentes de nicho
+Axe,Forca,50.5214,1.3346,-4.0,2.2366,1,1,1,0,1,0,0,0,0.01822548946197351,0,Fortes em faixas baixas
+Bane,Universal,49.5629,1.5566,3.85,0.4804,0,1,1,0,0,1,0,1,0.3359105718978747,1,Alto teto de habilidade
+Bloodseeker,Agilidade,51.3157,0.3758,0.41,0.5227,1,1,0,0,1,1,0,0,-1.65281931774632,2,Consistentes de nicho
+Crystal Maiden,Inteligencia,51.8871,1.5569,-4.46,1.7565,0,1,0,0,0,1,0,1,-0.3336901447457173,0,Fortes em faixas baixas
+Drow Ranger,Agilidade,46.27,0.6675,-1.93,1.4937,1,1,0,0,0,0,1,0,-0.6537218699480066,0,Fortes em faixas baixas
+Earthshaker,Forca,50.3143,0.6872,1.62,1.8631,0,1,0,0,1,1,0,1,0.000614922977872752,3,Consistentes e populares
+Juggernaut,Agilidade,51.8714,0.5916,1.37,2.2147,1,0,0,1,0,0,1,0,-0.07278513146438913,3,Consistentes e populares
+Mirana,Agilidade,51.6157,0.6189,-1.19,1.6089,1,1,0,1,0,1,0,1,0.9286459680843516,3,Consistentes e populares
+Morphling,Agilidade,47.4671,0.4564,1.39,0.437,1,1,1,1,0,1,0,0,0.2718800596697439,2,Consistentes de nicho
+Shadow Fiend,Agilidade,48.3286,0.3367,-0.36,2.8764,1,0,0,0,0,1,0,0,0.2585227980621113,3,Consistentes e populares
+Phantom Lancer,Agilidade,52.6886,0.3036,-0.49,1.5281,1,0,0,1,0,1,1,0,-0.0352475602953121,3,Consistentes e populares
+Puck,Inteligencia,45.8114,2.1667,6.1,0.4142,0,1,0,1,1,1,0,0,0.5001630800713502,1,Alto teto de habilidade
+Pudge,Forca,51.4529,0.8835,-2.12,3.471,0,1,1,0,1,1,0,0,0.2588228257166114,3,Consistentes e populares
+Razor,Agilidade,50.0614,0.3304,-0.29,0.8207,1,0,1,0,0,1,1,0,-0.4214286740004386,2,Consistentes de nicho
+Sand King,Universal,49.0586,1.811,-5.28,0.5385,0,1,0,1,1,1,0,1,-0.5439705207915935,0,Fortes em faixas baixas
+Storm Spirit,Inteligencia,46.3843,0.4945,0.62,0.7685,1,1,0,1,1,1,0,0,0.26625136354763357,2,Consistentes de nicho
+Sven,Forca,50.6586,0.586,1.86,1.0771,1,1,1,0,1,1,0,0,0.03336004206081545,2,Consistentes de nicho
+Tiny,Forca,44.4343,0.6362,-0.56,0.6006,1,1,1,0,1,1,1,0,0.07311570861369385,2,Consistentes de nicho
+Vengeful Spirit,Agilidade,52.8829,0.9208,-2.55,1.3435,0,1,0,1,1,1,0,1,-0.029741012446223763,0,Fortes em faixas baixas
+Windranger,Universal,48.5757,0.4479,0.33,2.1034,1,1,0,1,0,1,0,1,0.18154645877507855,3,Consistentes e populares
+Zeus,Inteligencia,49.7657,0.5734,-0.6,1.6824,1,0,0,0,0,1,0,0,-0.18305236524467203,3,Consistentes e populares
+Kunkka,Forca,49.3114,0.6011,1.17,0.5349,1,1,1,0,1,1,0,1,-0.02999752490949366,2,Consistentes de nicho
+Lina,Inteligencia,49.44,1.0488,2.37,2.7203,1,1,0,0,0,1,0,1,0.13242069555448086,3,Consistentes e populares
+Lion,Inteligencia,48.7957,0.2024,0.53,3.0909,0,1,0,0,1,1,0,1,0.03762681306544581,3,Consistentes e populares
+Shadow Shaman,Inteligencia,51.7271,0.2324,-0.64,1.9031,0,1,0,0,1,1,1,1,-0.44059170875924464,3,Consistentes e populares
+Slardar,Forca,50.29,1.1577,-3.59,1.0645,1,1,1,1,1,0,0,0,-0.042739245229314056,0,Fortes em faixas baixas
+Tidehunter,Forca,49.9643,0.4013,-0.58,0.9056,1,1,1,0,1,1,0,0,0.0920689544682393,2,Consistentes de nicho
+Witch Doctor,Inteligencia,51.9386,1.239,-3.29,1.9078,0,1,0,0,0,1,0,1,-0.42283514670928635,0,Fortes em faixas baixas
+Lich,Inteligencia,52.4886,0.5721,-0.2,1.3029,0,0,0,0,0,1,0,1,0.2649943659757685,3,Consistentes e populares
+Riki,Agilidade,51.8643,0.5341,0.61,0.6844,1,1,0,1,0,0,0,0,-0.8259324904040299,2,Consistentes de nicho
+Enigma,Universal,50.9743,3.1658,9.4,0.5432,0,1,0,0,1,0,1,0,0.2638265175979512,1,Alto teto de habilidade
+Tinker,Inteligencia,46.7843,1.76,4.74,0.5955,1,0,0,0,0,1,1,0,0.08496506553291373,1,Alto teto de habilidade
+Sniper,Agilidade,49.8343,1.6557,-4.87,2.5895,1,0,0,0,0,1,0,0,-0.7904561699031587,0,Fortes em faixas baixas
+Necrophos,Inteligencia,51.5586,1.3198,-3.86,2.0603,1,1,1,0,0,1,0,0,0.05085216741059294,0,Fortes em faixas baixas
+Warlock,Inteligencia,49.2957,1.7185,-4.97,0.7069,0,1,0,0,1,0,0,1,-0.45661773628072105,0,Fortes em faixas baixas
+Beastmaster,Universal,45.2657,1.5438,-0.66,0.2666,0,1,1,0,1,1,0,0,-0.14652539150305852,2,Consistentes de nicho
+Queen of Pain,Inteligencia,47.04,0.2462,-0.12,1.132,1,0,0,1,0,1,0,0,0.23843736999198187,3,Consistentes e populares
+Venomancer,Universal,47.3914,0.731,-2.21,0.8936,0,1,0,0,1,1,1,1,-0.6229960229386741,2,Consistentes de nicho
+Faceless Void,Agilidade,48.61,0.5382,1.43,1.1034,1,1,1,1,1,0,0,0,-0.31458625109345306,2,Consistentes de nicho
+Wraith King,Forca,54.6043,1.2048,-3.39,1.4972,1,1,1,0,1,0,0,1,-0.45273938470828434,0,Fortes em faixas baixas
+Death Prophet,Universal,48.2429,0.4442,1.0,0.5125,1,1,0,0,0,1,1,0,-0.5137144685114022,2,Consistentes de nicho
+Phantom Assassin,Agilidade,51.19,0.9982,-2.48,1.7808,1,0,0,1,0,0,0,0,-1.172731250959394,0,Fortes em faixas baixas
+Pugna,Inteligencia,49.6786,1.9292,4.32,0.5164,0,0,0,0,0,1,1,0,-0.2634747565564972,1,Alto teto de habilidade
+Templar Assassin,Agilidade,45.3257,0.3556,-0.35,0.6544,1,0,0,1,0,0,0,0,-0.1822954454820961,2,Consistentes de nicho
+Viper,Agilidade,48.2557,0.3276,0.79,1.0742,1,1,1,0,1,0,0,0,-1.100389967914665,2,Consistentes de nicho
+Luna,Agilidade,50.4829,0.5733,-0.98,1.3108,1,0,0,0,0,1,1,0,0.30407871109273155,3,Consistentes e populares
+Dragon Knight,Forca,51.5457,0.5563,-0.57,0.8203,1,1,1,0,1,1,1,0,0.21191455873920206,2,Consistentes de nicho
+Dazzle,Universal,50.7743,1.0837,3.02,0.5786,0,1,0,0,0,1,0,1,-0.3123751136990549,2,Consistentes de nicho
+Clockwerk,Forca,48.2557,1.0395,1.29,0.5631,0,1,1,0,1,1,0,0,0.7420385337177208,1,Alto teto de habilidade
+Leshrac,Inteligencia,50.0343,1.2627,3.99,0.2442,1,1,0,0,0,1,1,1,0.16212094078650152,1,Alto teto de habilidade
+Nature's Prophet,Universal,43.34,1.6174,-3.2,1.2635,1,0,0,1,0,1,1,0,-0.19011528657829455,0,Fortes em faixas baixas
+Lifestealer,Forca,52.8429,0.6087,0.94,2.2822,1,1,1,1,0,0,0,0,0.6843300454463787,3,Consistentes e populares
+Dark Seer,Inteligencia,49.2186,1.0674,3.4,0.7029,0,1,0,1,1,0,0,0,1.007308172772655,1,Alto teto de habilidade
+Clinkz,Agilidade,49.6657,0.8293,1.13,0.6666,1,0,0,1,0,0,1,0,-0.7523656584353956,2,Consistentes de nicho
+Omniknight,Forca,49.93,1.9409,5.23,0.285,0,0,1,0,0,1,0,1,-0.2492146160018382,1,Alto teto de habilidade
+Enchantress,Inteligencia,47.8243,0.2406,0.23,0.3753,0,1,1,0,0,0,1,1,-0.5973755925842364,2,Consistentes de nicho
+Huskar,Forca,45.2471,0.7222,0.01,0.5604,1,0,1,0,1,0,0,0,-0.9501372111056771,2,Consistentes de nicho
+Night Stalker,Forca,50.7643,1.8684,4.44,0.9229,1,1,1,0,1,1,0,0,0.8311060017662583,1,Alto teto de habilidade
+Broodmother,Agilidade,50.0786,0.6968,1.56,0.2503,1,0,0,1,0,1,1,0,-1.066487314804356,2,Consistentes de nicho
+Bounty Hunter,Agilidade,52.8929,2.5082,6.92,1.2093,0,0,0,1,0,1,0,0,0.7107524697446118,1,Alto teto de habilidade
+Weaver,Agilidade,47.1,0.402,-0.48,0.7036,1,0,0,1,0,0,0,0,-0.7270404076299313,2,Consistentes de nicho
+Jakiro,Inteligencia,48.63,1.3794,-3.4,1.0448,0,1,0,0,0,1,1,1,-0.3606422566438357,0,Fortes em faixas baixas
+Batrider,Universal,43.9229,1.1267,2.5,0.1235,0,1,0,1,1,0,0,0,-0.1576915384690909,2,Consistentes de nicho
+Chen,Inteligencia,44.8386,1.9451,6.07,0.0545,0,0,0,0,0,0,1,1,-0.1985468650503297,1,Alto teto de habilidade
+Spectre,Agilidade,54.3129,0.7489,-2.22,1.5272,1,0,1,1,0,0,0,0,0.054198901963235555,3,Consistentes e populares
+Ancient Apparition,Inteligencia,51.4286,0.9804,-1.3,0.8172,0,1,0,0,0,1,0,1,-0.2404003448540102,2,Consistentes de nicho
+Doom,Forca,47.23,1.2127,3.22,0.6931,1,1,1,0,1,1,0,0,0.8283729532510264,1,Alto teto de habilidade
+Ursa,Agilidade,46.7786,1.1883,3.33,0.6845,1,1,1,0,0,0,0,0,-0.370234207597211,2,Consistentes de nicho
+Spirit Breaker,Forca,51.9343,0.1969,0.2,1.9819,1,1,1,1,1,0,0,0,-0.004089503598493331,3,Consistentes e populares
+Gyrocopter,Agilidade,45.2086,0.6377,0.21,0.3415,1,1,0,0,0,1,0,0,0.06790113242178532,2,Consistentes de nicho
+Alchemist,Forca,46.9214,0.9946,-2.65,0.3809,1,1,1,0,1,1,0,1,-0.4795255924121088,2,Consistentes de nicho
+Invoker,Inteligencia,50.2843,0.9245,2.2,2.3678,1,1,0,1,0,1,1,0,0.5553477831117,3,Consistentes e populares
+Silencer,Inteligencia,50.7086,1.3724,-3.92,1.2499,1,1,0,0,1,1,0,1,-0.13754978653194638,0,Fortes em faixas baixas
+Outworld Devourer,Inteligencia,51.98,2.2214,5.32,1.0031,1,1,0,0,0,1,0,0,0.563874867220957,1,Alto teto de habilidade
+Lycan,Forca,48.3629,1.7934,3.29,0.1572,1,0,1,1,0,0,1,0,0.07516119607390184,1,Alto teto de habilidade
+Brewmaster,Universal,51.1329,1.3735,2.48,0.1887,1,1,1,0,1,1,0,0,0.6356964808979111,1,Alto teto de habilidade
+Shadow Demon,Inteligencia,44.3014,1.7696,4.61,0.2741,0,1,0,0,1,1,0,1,0.32115427857162254,1,Alto teto de habilidade
+Lone Druid,Agilidade,48.4429,0.9696,-1.74,0.4313,1,0,1,0,0,0,1,0,0.27052975902502807,2,Consistentes de nicho
+Chaos Knight,Forca,51.4786,0.6658,-1.38,0.6186,1,1,1,0,1,0,1,0,-0.9894750092924377,2,Consistentes de nicho
+Meepo,Agilidade,52.3471,1.1588,2.49,0.2163,1,1,0,1,1,1,1,0,-0.6681636021954448,2,Consistentes de nicho
+Treant Protector,Forca,49.4557,1.1141,2.73,0.7624,0,1,1,1,1,0,0,1,0.8318304180963352,1,Alto teto de habilidade
+Ogre Magi,Forca,50.6871,1.3238,-3.68,2.1064,0,1,1,0,1,1,0,1,-0.5010637685667766,0,Fortes em faixas baixas
+Undying,Forca,50.7057,0.5266,-1.28,1.8512,0,1,1,0,0,1,0,1,0.4228033192268025,3,Consistentes e populares
+Rubick,Inteligencia,49.54,0.5494,1.44,2.4417,0,1,0,0,0,1,0,1,0.9952835246831802,3,Consistentes e populares
+Disruptor,Inteligencia,49.6043,0.964,3.02,0.9403,0,1,0,0,1,1,0,1,0.9124919068248977,1,Alto teto de habilidade
+Nyx Assassin,Universal,52.29,0.4077,0.67,0.7053,0,1,0,1,1,1,0,0,0.4456356501100986,2,Consistentes de nicho
+Naga Siren,Agilidade,48.7214,0.9829,-0.92,0.2215,1,1,0,1,1,0,1,1,-1.3528875456463767,2,Consistentes de nicho
+Keeper of the Light,Inteligencia,49.8171,1.9653,5.39,0.8343,0,1,0,0,0,1,0,1,-0.003400820399481469,1,Alto teto de habilidade
+Io,Universal,48.7714,0.5005,1.05,0.5619,0,0,0,1,0,1,0,1,0.2969151666977264,2,Consistentes de nicho
+Visage,Universal,52.3071,2.6284,7.02,0.1888,0,1,1,0,0,1,1,1,0.13365519948186486,1,Alto teto de habilidade
+Slark,Agilidade,50.4186,1.1613,-1.75,1.2668,1,1,0,1,0,1,0,0,0.2657173083113426,0,Fortes em faixas baixas
